@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @morugetsm
-- 👀 I’m interested in get a job
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in learning rust
+- 🌱 I’m currently working in Seoul
 - 💞️ I’m looking to collaborate on web project
 - 📫 How to reach me shouu6@gmail.com
 
